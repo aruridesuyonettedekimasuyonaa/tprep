@@ -1,0 +1,100 @@
+{
+  "format": "tprep",
+  "schemaVersion": 1,
+  "subject": {
+    "subjectId": "english-1",
+    "subjectName": "英語（コミュニケーション英語I）"
+  },
+  "questions": [
+    {
+      "questionId": "eng-1-r1-q1-1",
+      "reportNo": 1,
+      "majorNo": 1,
+      "minorNo": "(1)",
+      "sortOrder": 1,
+      "questionText": "次の語句を日本語に訳せ：\n\"sustainable development\"",
+      "answerText": "持続可能な開発"
+    },
+    {
+      "questionId": "eng-1-r1-q1-2",
+      "reportNo": 1,
+      "majorNo": 1,
+      "minorNo": "(2)",
+      "sortOrder": 2,
+      "questionText": "次の語句を日本語に訳せ：\n\"artificial intelligence\"",
+      "answerText": "人工知能"
+    },
+    {
+      "questionId": "eng-1-r1-q1-3",
+      "reportNo": 1,
+      "majorNo": 1,
+      "minorNo": "(3)",
+      "sortOrder": 3,
+      "questionText": "次の語句を日本語に訳せ：\n\"infrastructure\"",
+      "answerText": "インフラ（社会基盤）"
+    },
+    {
+      "questionId": "eng-1-r1-q2-1",
+      "reportNo": 1,
+      "majorNo": 2,
+      "minorNo": "(1)",
+      "sortOrder": 4,
+      "questionText": "次の文の空欄に適切な語を入れよ：\n\"She has lived in Tokyo _____ 2010.\"",
+      "answerText": "since\n（since + 過去の時点: 〜から）"
+    },
+    {
+      "questionId": "eng-1-r1-q2-2",
+      "reportNo": 1,
+      "majorNo": 2,
+      "minorNo": "(2)",
+      "sortOrder": 5,
+      "questionText": "次の文の空欄に適切な語を入れよ：\n\"I have been studying English _____ three hours.\"",
+      "answerText": "for\n（for + 期間: 〜の間）"
+    },
+    {
+      "questionId": "eng-1-r1-q3-1",
+      "reportNo": 1,
+      "majorNo": 3,
+      "minorNo": "1",
+      "sortOrder": 6,
+      "questionText": "次の文を受動態に書き換えよ：\n\"Tom wrote this letter.\"",
+      "answerText": "This letter was written by Tom."
+    },
+    {
+      "questionId": "eng-1-r1-q3-2",
+      "reportNo": 1,
+      "majorNo": 3,
+      "minorNo": "2",
+      "sortOrder": 7,
+      "questionText": "次の文を受動態に書き換えよ：\n\"They are building a new bridge.\"",
+      "answerText": "A new bridge is being built by them."
+    },
+    {
+      "questionId": "eng-1-r2-q1-1",
+      "reportNo": 2,
+      "majorNo": 1,
+      "minorNo": "(1)",
+      "sortOrder": 1,
+      "questionText": "次の関係代名詞を使った文の意味を答えよ：\n\"The book which I bought yesterday is very interesting.\"",
+      "answerText": "私が昨日買った本はとても面白い。\n（which = 先行詞 the book を修飾する関係代名詞）"
+    },
+    {
+      "questionId": "eng-1-r2-q1-2",
+      "reportNo": 2,
+      "majorNo": 1,
+      "minorNo": "(2)",
+      "sortOrder": 2,
+      "questionText": "次の文で使われている不定詞の用法（名詞的・形容詞的・副詞的）を答えよ：\n\"She went to the library to study.\"",
+      "answerText": "副詞的用法（目的「〜するために」）\n"to study" が went を修飾している"
+    },
+    {
+      "questionId": "eng-1-r2-q2-1",
+      "reportNo": 2,
+      "majorNo": 2,
+      "minorNo": "1",
+      "sortOrder": 3,
+      "questionText": "次の語の第一音節にアクセントがある語をすべて選べ：\n① photograph  ② photography  ③ photographic  ④ photographer",
+      "answerText": "① photograph\n（②photography：2音節目、③photographic：3音節目、④photographer：2音節目にアクセント）"
+    }
+  ]
+}
